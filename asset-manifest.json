@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-simple-weather-card/static/css/main.6ebbcdda.css",
+    "main.js": "/react-simple-weather-card/static/js/main.4b585a15.js",
+    "index.html": "/react-simple-weather-card/index.html",
+    "static/media/index.cjs": "/react-simple-weather-card/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.6ebbcdda.css.map": "/react-simple-weather-card/static/css/main.6ebbcdda.css.map",
+    "main.4b585a15.js.map": "/react-simple-weather-card/static/js/main.4b585a15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ebbcdda.css",
+    "static/js/main.4b585a15.js"
+  ]
+}
