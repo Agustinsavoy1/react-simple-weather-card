@@ -30,7 +30,7 @@ const Weather = () => {
   
   return (
     <div className="bg-gradient-to-br from-yellow-400 to-pink-500 via-red-400 w-full h-screen flex items-center justify-center">
-      {weatherData ? <div className="bg-white p-8 bg-opacity-80 rounded-3xl flex space-x-12 items-center shadow-md">
+      <div className="bg-white p-8 bg-opacity-80 rounded-3xl flex space-x-12 items-center shadow-md">
         <div>
           {weatherData.weather ? (
             <img
@@ -54,7 +54,7 @@ const Weather = () => {
             <p className="text-gray-500 text-sm">{weatherData.name}</p>
           ) : null}
         </div>
-      </div> : null }
+      </div>
     </div>
   );
 };
